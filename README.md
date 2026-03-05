@@ -17,21 +17,11 @@ Sempre aprendendo e criando projetos novos! 🚀
 
 ---
 
-## 🌐 Me encontre em:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
-
----
 
 ## 🔥 GitHub Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=01uizz&theme=radical)
 
 ---
-
-## 🎧 Ouvindo no Spotify
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ericreprid&cover_image=true&theme=default&show_offline=false&bar_color=53b14f)
 
 ---
 
