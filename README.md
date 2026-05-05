@@ -14,8 +14,8 @@
 
 ## 🌐 Contato
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/SEU_USER)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=D14836)](mailto:seuemail@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/@0_1uiz)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=D14836)](mailto:santosluizhenriuque669@gmail.com)
 
 ---
 
@@ -46,13 +46,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=01uizz&theme=radical&no-frame=true&row=1"/>
-</div>
-
----
 
 ## 🐍 Snake (Commits)
 
@@ -60,12 +53,11 @@
 
 ---
 
-## 💡 Sobre mim
+---
+## 🌐 Contato
 
-* 🎯 Focado em evolução constante
-* 🧠 Estudando novas tecnologias
-* 🚀 Construindo projetos reais
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/SEU_USER)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=D14836)](mailto:seuemail@email.com)
 
 ---
-
 ⭐ Dá uma olhada nos meus repositórios!
