@@ -12,12 +12,6 @@
 
 ---
 
-## 🌐 Contato
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/@0_1uiz)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=D14836)](mailto:santosluizhenriuque669@gmail.com)
-
----
 
 ## 🛠️ Tecnologias
 
@@ -29,12 +23,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=01uizz&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01uizz&layout=compact&theme=radical"/>
-</div>
 
 ---
 
