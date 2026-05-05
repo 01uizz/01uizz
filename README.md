@@ -28,10 +28,6 @@
 ---
 
 
-## 🐍 Snake (Commits)
-
-![snake gif](https://github.com/01uizz/01uizz/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🚀 Sobre mim
