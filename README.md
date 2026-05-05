@@ -11,11 +11,6 @@ Sempre aprendendo e criando projetos novos! 🚀
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
----
-
-
-## 🔥 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=01uizz&theme=radical)
 
 ---
 
