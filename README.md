@@ -4,13 +4,6 @@
 
 ---
 
-## 🚀 Sobre mim
-
-💻 Desenvolvedor focado em **JavaScript, React e Node.js**
-📚 Sempre estudando e evoluindo
-⚡ Criando projetos modernos e funcionais
-
----
 
 
 ## 🛠️ Tecnologias
@@ -41,11 +34,18 @@
 
 ---
 
+## 🚀 Sobre mim
+
+💻 Desenvolvedor focado em **JavaScript, React e Node.js**
+📚 Sempre estudando e evoluindo
+⚡ Criando projetos modernos e funcionais
+
+
 ---
 ## 🌐 Contato
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/SEU_USER)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=D14836)](mailto:seuemail@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/0_1uiz)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail\&logoColor=D14836)](mailto:santosluizhenrique669@email.com)
 
 ---
 ⭐ Dá uma olhada nos meus repositórios!
